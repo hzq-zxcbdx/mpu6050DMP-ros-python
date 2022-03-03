@@ -21,7 +21,7 @@ cd mpu6050DMP-ros-python
 catkin_make
 ```
 
-Now you can input this to run the code:
+Now you can input this to run the code(Make sure you are the root user):
 ```
 source ./devel/setup.bash
 rosrun mpu2ros_python MPU6050_python.py
