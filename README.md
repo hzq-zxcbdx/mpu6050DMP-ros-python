@@ -1,5 +1,5 @@
 # mpu6050DMP-ros-python on raspberry
-This project sends datas from mpu6050 as rostopic.
+This project allows the Raspberry Pi to deliver mpu6050 messages to ros as rostopic
 
 The platform of this project is raspberry4B with ubuntu18.04
 
